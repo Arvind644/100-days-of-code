@@ -10,4 +10,4 @@ project link : https://www.youtube.com/watch?v=G1eW3Oi6uoc&list=PLillGF-RfqbbnEG
 
 Day 2      24-11-2020 <br />
 Continued the same python course and learn about list, touples and functions.<br />
-Made thee filter js project by my own. I will continue it and make changes to make it by my own.
+Made the filter js project by my own. I will continue it and make changes to make it by my own.
