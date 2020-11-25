@@ -13,5 +13,5 @@ Continued the same python course and learn about list, touples and functions.<br
 Made the filter js project by my own. I will continue it and make changes to make it by my own.
 
 DAy 3     25-11-2020 <br />
-Continued watching same python tutoprial and learn about dictionary, for loop, while loop.<br />
+Continued watching same python tutoprial and learn about dictionary, for loop, while loop, try and except.<br />
 Make a simple calculator in python
