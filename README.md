@@ -15,3 +15,7 @@ Made the filter js project by my own. I will continue it and make changes to mak
 DAy 3     25-11-2020 <br />
 Continued watching same python tutoprial and learn about dictionary, for loop, while loop, try and except.<br />
 Make a simple calculator in python
+
+Day 4      26-11-2020 <br />
+Finished the python tutorial. Learn about reading files, writing files, modules and pip, class and objects, object functions, inheritance<r />
+Now from tomorrow I will take another intermediate course from freecodecamp channel and start reading docs.
