@@ -17,5 +17,5 @@ Continued watching same python tutoprial and learn about dictionary, for loop, w
 Make a simple calculator in python
 
 Day 4      26-11-2020 <br />
-Finished the python tutorial. Learn about reading files, writing files, modules and pip, class and objects, object functions, inheritance<r />
+Finished the python tutorial. Learn about reading files, writing files, modules and pip, class and objects, object functions, inheritance<br />
 Now from tomorrow I will take another intermediate course from freecodecamp channel and start reading docs.
