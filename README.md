@@ -19,3 +19,12 @@ Make a simple calculator in python
 Day 4      26-11-2020 <br />
 Finished the python tutorial. Learn about reading files, writing files, modules and pip, class and objects, object functions, inheritance<br />
 Now from tomorrow I will take another intermediate course from freecodecamp channel and start reading docs.
+
+Day 5      27-11-2020 <br />
+Started intermediate python tutorial from youtube. Revise lists, touples, dictionary. <br />
+Course link : https://www.youtube.com/watch?v=HGOBQPFzWKo <br />
+Github repo : https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python <br />
+Started reading python docs. <br />
+Python docs : https://www.pythonlikeyoumeanit.com/ <br />
+Started following netninja youtube channel for learning tailwind css and along with reading docs <br />
+Course link : https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw <br />
