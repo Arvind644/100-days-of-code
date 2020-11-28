@@ -28,3 +28,8 @@ Started reading python docs. <br />
 Python docs : https://www.pythonlikeyoumeanit.com/ <br />
 Started following netninja youtube channel for learning tailwind css and along with reading docs <br />
 Course link : https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw <br />
+
+Day 6     28-11-2020 <br />
+Continued the same tutorial and learn about sets, strings, collection, itertools, lambda function and exceptions. <br />
+Continued the net ninjs tailwind course. <br />
+Start making my own prject on tailwind. It is niture.
