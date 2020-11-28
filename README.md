@@ -31,5 +31,5 @@ Course link : https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXOR
 
 Day 6     28-11-2020 <br />
 Continued the same tutorial and learn about sets, strings, collection, itertools, lambda function and exceptions. <br />
-Continued the net ninjs tailwind course. <br />
-Start making my own prject on tailwind. It is niture.
+Continued the net ninjas tailwind course. <br />
+Start making my own project on tailwind. It is niture.
