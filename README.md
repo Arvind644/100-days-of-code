@@ -33,3 +33,8 @@ Day 6     28-11-2020 <br />
 Continued the same tutorial and learn about sets, strings, collection, itertools, lambda function and exceptions. <br />
 Continued the net ninjas tailwind course. <br />
 Start making my own project on tailwind. It is niture.
+
+Day 7     29-11-2020<br />
+Continued the same tutorial and learn about logging, json, random numbers. <br />
+Completed the net ninja tailwind course. And work on my tailwind project. <br />
+I will start learning numpy from tomorrow
