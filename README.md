@@ -38,3 +38,8 @@ Day 7     29-11-2020<br />
 Continued the same tutorial and learn about logging, json, random numbers. <br />
 Completed the net ninja tailwind course. And work on my tailwind project. <br />
 I will start learning numpy from tomorrow
+
+Day 8     30-11-2020 <br />
+Started learning numpy from freecodecamp youtube video. <br />
+Course link : https://www.youtube.com/watch?v=QUT1VHiLmmI <br />
+Github link  : https://github.com/KeithGalli/NumPy 
