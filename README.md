@@ -43,3 +43,7 @@ Day 8     30-11-2020 <br />
 Started learning numpy from freecodecamp youtube video. <br />
 Course link : https://www.youtube.com/watch?v=QUT1VHiLmmI <br />
 Github link  : https://github.com/KeithGalli/NumPy 
+
+Day 9     1-12-2020 <br />
+Started reading numpy docs and github repo and learn about initialising array. <br />
+Work on tailwind project.
