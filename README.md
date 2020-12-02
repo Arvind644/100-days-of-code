@@ -47,3 +47,7 @@ Github link  : https://github.com/KeithGalli/NumPy
 Day 9     1-12-2020 <br />
 Started reading numpy docs and github repo and learn about initialising array. <br />
 Work on tailwind project.
+
+Day 10   2-12-2020
+Solve numpy in freecodecamp.
+Make expanding cards project.
