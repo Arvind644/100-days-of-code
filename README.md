@@ -48,6 +48,9 @@ Day 9     1-12-2020 <br />
 Started reading numpy docs and github repo and learn about initialising array. <br />
 Work on tailwind project.
 
-Day 10   2-12-2020
-Solve numpy in freecodecamp.
+Day 10   2-12-2020<br />
+Solve numpy in freecodecamp.<br />
 Make expanding cards project.
+
+Day 11    3-12-2020<br />
+Continued solving numpy in freecodecamp.
